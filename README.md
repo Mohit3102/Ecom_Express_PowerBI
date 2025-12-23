@@ -76,7 +76,3 @@ The dashboard helps stakeholders quickly identify **top-performing products**, *
 **Mohit Padhiyar**  
 Aspiring Data Analyst  
 Power BI | Python | SQL | Excel | Data Visualization
-
-
-
-## 📁 Project Structur
